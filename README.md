@@ -1,4 +1,4 @@
-# How to disable the row selection while clicking on the checkbox column in wpf and uwp datagrid?
+# How to disable the row selection while clicking on the checkbox column in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to disable the row selection while clicking on the checkbox column in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
